@@ -1,1 +1,2 @@
 # Gestion-de-Biblioth-que
+Le projet de Gestion de Bibliothèque est développé en utilisant PHP, HTML, et CSS, offrant une interface conviviale pour gérer efficacement une collection de livres. Il permet aux utilisateurs de créer un compte, ajouter de nouveaux livres, et supprimer des livres existants. Cette application web assure une gestion fluide des ressources de la bibliothèque, tout en garantissant une expérience utilisateur simple et intuitive.
