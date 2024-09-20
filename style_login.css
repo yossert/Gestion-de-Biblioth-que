@@ -1,0 +1,36 @@
+body{
+    box-sizing: border-box;
+    border: 1px solid black;
+    height: 400px;
+    width: 700px;
+    margin: auto;
+    margin-top: 200px;
+    
+    background-image: url(pop.jpg);
+}
+.div0{
+    background-color: transparent;
+}
+.cnx{
+    padding-top: 100px;
+    background-color: transparent;
+    height: 300px;
+
+    
+    
+    margin: auto;
+    
+}
+.champs_text{
+    width: 500px;
+    padding: 15px;
+    margin-bottom: 10px;
+    background-color: transparent;
+    
+
+}
+.envoyer{
+    margin-top: 10px;
+    width: 250px;
+    
+}
